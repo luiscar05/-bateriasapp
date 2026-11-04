@@ -1,0 +1,14 @@
+# Maven
+target/
+# IntelliJ / VS Code / Eclipse
+.idea/
+*.iml
+.vscode/
+.classpath
+.project
+.settings/
+# Secretos y entorno
+.env
+# SO / logs
+.DS_Store
+*.log
